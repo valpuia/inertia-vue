@@ -2,7 +2,7 @@
 
 Displaying user posts
 
-## Requirement
+## How to...
 
 - git clone
 - composer i
